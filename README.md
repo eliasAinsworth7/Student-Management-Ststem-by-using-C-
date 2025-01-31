@@ -1,4 +1,4 @@
-# Student Management Ststem by using C++
+# Student Management System by using C++
 
 ## Introduction
 The Student Management System is a C++ project designed to demonstrate key programming concepts and principles such as Object-Oriented Programming (OOP), addresses, pointers, const variables, control statements, and sorting algorithms. This project provides a comprehensive example of how these concepts can be applied in a real-world scenario.
